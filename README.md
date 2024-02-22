@@ -1,7 +1,16 @@
-# Google-solution-challenge-code-brainstorm
-#This is team Alpha and we are embacking on this exciting App development journey wih google's flutter.
-#We highly Welcome anyone who is ready and weeling to work with team Alpha today.
-#We are working on an advertisement app using flutter that will create an online presence for each business in the country (Cameroon).
-#So contact Us today and we make this dream come true at...
-#Email. rickytabe2@gmail.com
-#Phone Number: +237 671353341.
+# project2
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
